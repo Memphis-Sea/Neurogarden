@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome! 🌱
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+!Begin from welcome page!
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
