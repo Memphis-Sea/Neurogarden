@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome! 🌱
 
-!Begin from welcome page!
+**Begin from welcome page**
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
